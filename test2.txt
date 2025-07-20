@@ -1,1 +1,2 @@
-This is text2 file 
+This is text2 file.
+I would like to learn Django through this.
